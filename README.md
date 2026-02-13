@@ -1,5 +1,7 @@
 # Sabor Express
 
+[![CI](https://github.com/leonardopinheiro509-pixel/Sabor-Express/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/leonardopinheiro509-pixel/Sabor-Express/actions/workflows/ci.yml)
+
 > Aplicativo CLI simples para gerenciar restaurantes (projeto pessoal).
 
 ## Como rodar
