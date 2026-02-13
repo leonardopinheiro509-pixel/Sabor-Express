@@ -1,0 +1,2 @@
+# Lista de dependências do projeto
+# Nenhuma dependência externa detectada (somente "os" da stdlib)
